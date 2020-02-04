@@ -1,0 +1,14 @@
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.dll.config
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.dll
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.Math.Core.dll
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.Math.dll
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.xml
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.Math.xml
+C:\Users\Punk\source\repos\Task1\Task1\bin\Debug\Accord.Math.Core.xml
+C:\Users\Punk\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CopyComplete
+C:\Users\Punk\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Punk\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\Punk\source\repos\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
